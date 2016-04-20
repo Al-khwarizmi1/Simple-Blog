@@ -7,9 +7,9 @@ This is a simple blog application created using PHP
 - Apache Version: 2.4.12
 
 ## How to setup
-To set the this up you'll need to download the repo and setup the database
-I reccomend using phpmyadmin if you prefer a graphical user interface
-You may import the SQL script in the repo and either run it on your server, or import with phpMyAdmin
+To set the this up you'll need to download the repo and setup the database.
+I reccomend using phpmyadmin if you prefer a graphical user interface.
+You may import the SQL script in the repo and either run it on your server, or import with phpMyAdmin.
 
 ## Why I made this
 I wanted to learn the basics of creating an application for blogging with PHP
@@ -21,4 +21,4 @@ I followed the book:
 *PHP for Absolute Begginners*
   -by Jason Lengstorf
   
-I modified the code to my liking and leveraged up-to-date software
+I modified the code to my liking and leveraged up-to-date software.
