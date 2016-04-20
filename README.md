@@ -2,9 +2,9 @@
 This is a simple blog application created using PHP
 
 ## Requirements
--- Mysql version: 5.6.17
--- PHP Version: 5.5.12
--- Apache Version: 2.4.12
+- Mysql version: 5.6.17
+- PHP Version: 5.5.12
+- Apache Version: 2.4.12
 
 ## How to setup
 To set the this up you'll need to download the repo and setup the database
