@@ -12,7 +12,7 @@ I reccomend using phpmyadmin if you prefer a graphical user interface.
 You may import the SQL script in the repo and either run it on your server, or import with phpMyAdmin.
 
 ## Why I made this
-I wanted to learn the basics of creating an application for blogging with PHP
+I wanted to learn the basics of creating an application for blogging with PHP.
 The idea was to leverage programming concepts to learn more about basic PHP programming, OOP, Database querying with Mysql, 
 using regex to create pretty urls, handling images, handling XML, creating administrative access, email validation, etc...
 
